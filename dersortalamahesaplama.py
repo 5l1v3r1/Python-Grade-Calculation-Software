@@ -30,7 +30,7 @@ proje = input('Proje Notunuzu Giriniz = ')
 
 print star
 
-ders_ort = (sinav_1 + sinav_2 + performans_1 + performans_2 + proje)/5
+ders_ort = (sinav_1 + sinav_2 + performans_1 + performans_2 + proje)/5.0
 
 print ders_adi, 'dersinden aldiginiz not = ', ders_ort
 
